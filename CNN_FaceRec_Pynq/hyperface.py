@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-import chainer
-
 import cv2
 import numpy as np
 import six
